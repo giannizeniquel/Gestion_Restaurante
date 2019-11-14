@@ -1,0 +1,102 @@
+[
+  {
+    "numMesa": 1,
+    "numSillas": 0,
+    "fijado": true,
+    "altura": 60,
+    "ancho": 120,
+    "locationx": 40,
+    "locationy": 704,
+    "pathImage": "Mesa_8Sillas1"
+  },
+  {
+    "numMesa": 2,
+    "numSillas": 0,
+    "fijado": true,
+    "altura": 60,
+    "ancho": 120,
+    "locationx": 41,
+    "locationy": 627,
+    "pathImage": "Mesa_8Sillas1"
+  },
+  {
+    "numMesa": 3,
+    "numSillas": 0,
+    "fijado": true,
+    "altura": 70,
+    "ancho": 70,
+    "locationx": 509,
+    "locationy": 571,
+    "pathImage": "MesaVistaAereaCircular_1"
+  },
+  {
+    "numMesa": 5,
+    "numSillas": 0,
+    "fijado": true,
+    "altura": 60,
+    "ancho": 100,
+    "locationx": 179,
+    "locationy": 704,
+    "pathImage": "Mesa_6Sillas1"
+  },
+  {
+    "numMesa": 4,
+    "numSillas": 0,
+    "fijado": true,
+    "altura": 60,
+    "ancho": 100,
+    "locationx": 179,
+    "locationy": 628,
+    "pathImage": "Mesa_6Sillas1"
+  },
+  {
+    "numMesa": 7,
+    "numSillas": 0,
+    "fijado": true,
+    "altura": 60,
+    "ancho": 80,
+    "locationx": 195,
+    "locationy": 550,
+    "pathImage": "Mesa_4Sillas1"
+  },
+  {
+    "numMesa": 6,
+    "numSillas": 0,
+    "fijado": true,
+    "altura": 60,
+    "ancho": 80,
+    "locationx": 48,
+    "locationy": 546,
+    "pathImage": "Mesa_4Sillas1"
+  },
+  {
+    "numMesa": 8,
+    "numSillas": 0,
+    "fijado": true,
+    "altura": 40,
+    "ancho": 60,
+    "locationx": 511,
+    "locationy": 510,
+    "pathImage": "Mesa_2Sillas1"
+  },
+  {
+    "numMesa": 9,
+    "numSillas": 0,
+    "fijado": true,
+    "altura": 40,
+    "ancho": 60,
+    "locationx": 508,
+    "locationy": 453,
+    "pathImage": "Mesa_2Sillas1"
+  },
+  {
+    "numMesa": 10,
+    "numSillas": 0,
+    "fijado": true,
+    "altura": 60,
+    "ancho": 120,
+    "locationx": 407,
+    "locationy": 686,
+    "pathImage": "Mesa_8Sillas1"
+  }
+]

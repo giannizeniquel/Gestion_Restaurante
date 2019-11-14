@@ -1,0 +1,29 @@
+[
+  {
+    "fijadoAdorno": true,
+    "altura": 120,
+    "ancho": 60,
+    "locationX": 32,
+    "locationY": 181,
+    "pathImage": "Bar_image",
+    "idAdorno": 0
+  },
+  {
+    "fijadoAdorno": true,
+    "altura": 14,
+    "ancho": 60,
+    "locationX": 110,
+    "locationY": 369,
+    "pathImage": "Maceta_variasPlantas",
+    "idAdorno": 3
+  },
+  {
+    "fijadoAdorno": true,
+    "altura": 14,
+    "ancho": 60,
+    "locationX": 32,
+    "locationY": 370,
+    "pathImage": "Maceta_variasPlantas",
+    "idAdorno": 2
+  }
+]

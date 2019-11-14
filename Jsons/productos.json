@@ -1,0 +1,62 @@
+[
+  {
+    "idProducto": 1,
+    "nombre": "Coca-Cola 1/2 Litro",
+    "descripcion": "Bebida",
+    "precio": 45.5
+  },
+  {
+    "idProducto": 1,
+    "nombre": "Albóndigas con puré",
+    "descripcion": "Plato Principal",
+    "precio": 350.0
+  },
+  {
+    "idProducto": 1,
+    "nombre": "Coca-Cola 1 Litro",
+    "descripcion": "Bebida",
+    "precio": 86.0
+  },
+  {
+    "idProducto": 1,
+    "nombre": "Estofado",
+    "descripcion": "Plato Principal",
+    "precio": 258.0
+  },
+  {
+    "idProducto": 1,
+    "nombre": "Estofado",
+    "descripcion": "Plato Principal",
+    "precio": 314.0
+  },
+  {
+    "idProducto": 1,
+    "nombre": "Milanesa",
+    "descripcion": "Plato Principal",
+    "precio": 278.0
+  },
+  {
+    "idProducto": 1,
+    "nombre": "Milanesa",
+    "descripcion": "Plato Principal",
+    "precio": 245.0
+  },
+  {
+    "idProducto": 1,
+    "nombre": "Ensalada Rusa",
+    "descripcion": "Ensalada",
+    "precio": 84.0
+  },
+  {
+    "idProducto": 1,
+    "nombre": "Bife",
+    "descripcion": "Plato Principal",
+    "precio": 223.0
+  },
+  {
+    "idProducto": 1,
+    "nombre": "Verdudas y Huevo",
+    "descripcion": "Ensalada",
+    "precio": 125.0
+  }
+]

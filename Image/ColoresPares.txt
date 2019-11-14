@@ -1,0 +1,5 @@
+#5E2E1B : Marron Oscuro
+#B8272A : Rojo Oscuro
+#EE9E28 : Dorado
+#F0CD2E : amarillo
+#ECF9B7 : Verde

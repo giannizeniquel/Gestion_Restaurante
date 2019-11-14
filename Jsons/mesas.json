@@ -1,0 +1,32 @@
+[
+  {
+    "numMesa": 1,
+    "numSillas": 0,
+    "fijado": true,
+    "altura": 120,
+    "ancho": 60,
+    "locationx": 53,
+    "locationy": 424,
+    "pathImage": "Mesa_8Sillas1"
+  },
+  {
+    "numMesa": 3,
+    "numSillas": 0,
+    "fijado": true,
+    "altura": 60,
+    "ancho": 80,
+    "locationx": 440,
+    "locationy": 595,
+    "pathImage": "Mesa_4Sillas1"
+  },
+  {
+    "numMesa": 2,
+    "numSillas": 0,
+    "fijado": true,
+    "altura": 60,
+    "ancho": 120,
+    "locationx": 139,
+    "locationy": 625,
+    "pathImage": "Mesa_8Sillas1"
+  }
+]

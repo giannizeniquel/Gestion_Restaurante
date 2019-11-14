@@ -1,0 +1,263 @@
+[
+  {
+    "fijadoAdorno": false,
+    "altura": 60,
+    "ancho": 212,
+    "locationX": 25,
+    "locationY": 215,
+    "pathImage": "Bar_image",
+    "idAdorno": 3
+  },
+  {
+    "fijadoAdorno": true,
+    "altura": 60,
+    "ancho": 212,
+    "locationX": 36,
+    "locationY": 219,
+    "pathImage": "Bar_image",
+    "idAdorno": 3
+  },
+  {
+    "fijadoAdorno": true,
+    "altura": 60,
+    "ancho": 14,
+    "locationX": 294,
+    "locationY": 666,
+    "pathImage": "Maceta_variasPlantas",
+    "idAdorno": 18
+  },
+  {
+    "fijadoAdorno": true,
+    "altura": 60,
+    "ancho": 14,
+    "locationX": 294,
+    "locationY": 607,
+    "pathImage": "Maceta_variasPlantas",
+    "idAdorno": 17
+  },
+  {
+    "fijadoAdorno": true,
+    "altura": 60,
+    "ancho": 14,
+    "locationX": 294,
+    "locationY": 548,
+    "pathImage": "Maceta_variasPlantas",
+    "idAdorno": 16
+  },
+  {
+    "fijadoAdorno": true,
+    "altura": 20,
+    "ancho": 20,
+    "locationX": 293,
+    "locationY": 738,
+    "pathImage": "Maceta_PlantaRosa",
+    "idAdorno": 19
+  },
+  {
+    "fijadoAdorno": true,
+    "altura": 14,
+    "ancho": 60,
+    "locationX": 43,
+    "locationY": 403,
+    "pathImage": "Maceta_variasPlantas",
+    "idAdorno": 20
+  },
+  {
+    "fijadoAdorno": true,
+    "altura": 14,
+    "ancho": 60,
+    "locationX": 185,
+    "locationY": 406,
+    "pathImage": "Maceta_variasPlantas",
+    "idAdorno": 21
+  },
+  {
+    "fijadoAdorno": true,
+    "altura": 20,
+    "ancho": 20,
+    "locationX": 155,
+    "locationY": 402,
+    "pathImage": "Maceta_PlantaVerdeFlores",
+    "idAdorno": 23
+  },
+  {
+    "fijadoAdorno": true,
+    "altura": 20,
+    "ancho": 20,
+    "locationX": 116,
+    "locationY": 401,
+    "pathImage": "Maceta_PlantaVerdeFlores",
+    "idAdorno": 22
+  },
+  {
+    "fijadoAdorno": true,
+    "altura": 60,
+    "ancho": 14,
+    "locationX": 463,
+    "locationY": 454,
+    "pathImage": "Maceta_variasPlantas",
+    "idAdorno": 24
+  },
+  {
+    "fijadoAdorno": true,
+    "altura": 60,
+    "ancho": 14,
+    "locationX": 463,
+    "locationY": 512,
+    "pathImage": "Maceta_variasPlantas",
+    "idAdorno": 25
+  },
+  {
+    "fijadoAdorno": true,
+    "altura": 60,
+    "ancho": 14,
+    "locationX": 463,
+    "locationY": 572,
+    "pathImage": "Maceta_variasPlantas",
+    "idAdorno": 26
+  },
+  {
+    "fijadoAdorno": true,
+    "altura": 14,
+    "ancho": 60,
+    "locationX": 41,
+    "locationY": 493,
+    "pathImage": "Maceta_variasPlantas",
+    "idAdorno": 27
+  },
+  {
+    "fijadoAdorno": true,
+    "altura": 14,
+    "ancho": 60,
+    "locationX": 189,
+    "locationY": 494,
+    "pathImage": "Maceta_variasPlantas",
+    "idAdorno": 28
+  },
+  {
+    "fijadoAdorno": true,
+    "altura": 20,
+    "ancho": 20,
+    "locationX": 116,
+    "locationY": 491,
+    "pathImage": "Maceta_PlantaVerdeFlores",
+    "idAdorno": 29
+  },
+  {
+    "fijadoAdorno": true,
+    "altura": 20,
+    "ancho": 20,
+    "locationX": 159,
+    "locationY": 494,
+    "pathImage": "Maceta_PlantaVerdeFlores",
+    "idAdorno": 30
+  },
+  {
+    "fijadoAdorno": true,
+    "altura": 40,
+    "ancho": 40,
+    "locationX": 498,
+    "locationY": 299,
+    "pathImage": "Puerta_02",
+    "idAdorno": 33
+  },
+  {
+    "fijadoAdorno": true,
+    "altura": 40,
+    "ancho": 40,
+    "locationX": 35,
+    "locationY": 432,
+    "pathImage": "Puerta_02",
+    "idAdorno": 32
+  },
+  {
+    "fijadoAdorno": true,
+    "altura": 10,
+    "ancho": 212,
+    "locationX": 33,
+    "locationY": 384,
+    "pathImage": "Pared_01",
+    "idAdorno": 31
+  },
+  {
+    "fijadoAdorno": true,
+    "altura": 50,
+    "ancho": 40,
+    "locationX": 411,
+    "locationY": 188,
+    "pathImage": "Inodoro_image",
+    "idAdorno": 13
+  },
+  {
+    "fijadoAdorno": true,
+    "altura": 40,
+    "ancho": 40,
+    "locationX": 407,
+    "locationY": 286,
+    "pathImage": "Lavamanos_image",
+    "idAdorno": 12
+  },
+  {
+    "fijadoAdorno": true,
+    "altura": 10,
+    "ancho": 601,
+    "locationX": 24,
+    "locationY": 175,
+    "pathImage": "Pared_01",
+    "idAdorno": 5
+  },
+  {
+    "fijadoAdorno": true,
+    "altura": 592,
+    "ancho": 10,
+    "locationX": 615,
+    "locationY": 184,
+    "pathImage": "Pared_01",
+    "idAdorno": 6
+  },
+  {
+    "fijadoAdorno": true,
+    "altura": 10,
+    "ancho": 599,
+    "locationX": 24,
+    "locationY": 766,
+    "pathImage": "Pared_01",
+    "idAdorno": 8
+  },
+  {
+    "fijadoAdorno": true,
+    "altura": 592,
+    "ancho": 10,
+    "locationX": 25,
+    "locationY": 184,
+    "pathImage": "Pared_01",
+    "idAdorno": 9
+  },
+  {
+    "fijadoAdorno": true,
+    "altura": 147,
+    "ancho": 10,
+    "locationX": 391,
+    "locationY": 184,
+    "pathImage": "Pared_01",
+    "idAdorno": 10
+  },
+  {
+    "fijadoAdorno": true,
+    "altura": 10,
+    "ancho": 108,
+    "locationX": 391,
+    "locationY": 330,
+    "pathImage": "Pared_01",
+    "idAdorno": 11
+  },
+  {
+    "fijadoAdorno": true,
+    "altura": 119,
+    "ancho": 10,
+    "locationX": 498,
+    "locationY": 183,
+    "pathImage": "Pared_01",
+    "idAdorno": 15
+  }
+]
